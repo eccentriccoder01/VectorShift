@@ -8,6 +8,7 @@ frontend/build/
 
 # Env
 .env
+.env.local
 .venv/
 *.egg-info/
 
@@ -18,3 +19,4 @@ frontend/build/
 # OS
 .DS_Store
 Thumbs.db
+
